@@ -44,7 +44,9 @@
     ]
   },
   "devDependencies": {
-    "tailwindcss": "^3.2.7"
+    "tailwindcss": "^3.2.7",
+    "caniuse-lite": "^1.0.30001539"
+
   },
   "proxy": "http://localhost:5000"
 }
